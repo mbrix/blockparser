@@ -7,7 +7,7 @@ This is an example parser for the on-disk Bitcoin blockchain, as well as an expe
 
 You can read more about this particular experiment on my blog,
 
-http://www.brantonbits.com/blog/2014-05-29-parsing-the-blockchain-with-erlang.markdown
+http://www.brantonbits.com/blog/2014/05/29/parsing-the-blockchain-with-erlang/
 
 To run this code:
 Grab Erlang R17+, watch out for old distro releases, I compiled from source.
